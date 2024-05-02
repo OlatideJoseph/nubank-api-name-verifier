@@ -1,0 +1,13 @@
+.home-page{
+	text-align: left;
+}
+.form-div{
+	background: lightgray;
+	padding: 12px;
+	border-radius: 15px;
+}
+@media (prefers-color-scheme: dark){
+	.form-div{
+		background: gray;
+	}
+}

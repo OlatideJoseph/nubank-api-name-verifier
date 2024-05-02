@@ -1,0 +1,10 @@
+nav{
+	width: 98%;
+	background-color: grey;
+	padding: 12px;
+	text-align: left;
+	border-radius: 8px;
+	cursor: pointer;
+	display: flex;
+	justify-content: space-between;
+}
